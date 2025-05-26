@@ -12,7 +12,7 @@ jupyter notebook Sentiment_Analysis.ipynb
 ### Usage
 Run the Jupyter Notebook (Sentiment_Analysis.ipynb).
 Enter a text to see its sentiment.
-Type "exit" to quit the program.
+Type "quit" to exit the program.
 
 #### Technologies
 Python
